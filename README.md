@@ -20,7 +20,7 @@ Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1
 
 ## How to Run 🛠️
 1. Clone this repository:
-   https://github.com/stepforward2023/WeatherApp.git
+   https://github.com/Mayank-kanojiya/Weather_App_Kotlin.git
 
 ## Technologies Used 💻
 - **Languages**: XML, Kotlin
