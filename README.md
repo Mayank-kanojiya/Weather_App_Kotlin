@@ -1,8 +1,3 @@
-Got it 👍
-Here’s your **Weather App README rewritten in a more natural, humanized, and engaging style**, while keeping it professional for GitHub or portfolio use:
-
----
-
 # Weather App 🌦️
 
 An interactive **Android Weather App** that delivers **real-time weather updates** for any city you search. To make the experience more engaging, the app automatically adjusts its **background theme** based on the weather condition — bringing the weather to life on your screen.
@@ -70,6 +65,4 @@ An interactive **Android Weather App** that delivers **real-time weather updates
 
 This project was created as part of my learning journey. Special thanks to **[NeatRoots](https://www.youtube.com/@NeatRoots)** for their helpful tutorials and inspiration throughout the process.
 
----
 
-👉 Do you want me to **make this portfolio-ready** (shorter, keyword-focused for recruiters), or keep it **GitHub showcase style** (detailed and friendly)?
