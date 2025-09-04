@@ -15,7 +15,7 @@ A dynamic Weather App that provides real-time weather details for any city enter
 - 🌟 **Splash Screen**: An engaging splash screen displayed when the app is opened.
 
 ## Demo 📸
-Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1gmC6Z5vueReE0KGh2N9h_C8bWak3kuQz/view?usp=sharing)
+Check out the app in action: [Watch the Video](https://drive.google.com/file/d/1-DnGHpoDfd5f3TY-FzI7clz3M9CHHQHi/view?usp=sharing)
 
 
 ## How to Run 🛠️
